@@ -1,2 +1,1 @@
-# My-Contributions
-My personal github histroy.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuramaotsutsuki)](https://github.com/anuraghazra/github-readme-stats)
